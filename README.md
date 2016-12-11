@@ -1,4 +1,4 @@
-# AndroidListView
+# AndroidListView (Ordinary List No Image)
 
 Uses Android Studio.
 
