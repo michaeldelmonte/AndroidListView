@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidListView</string>
+
+    <string-array name="list_view_array">
+        <item>Razer</item>
+        <item>Steelseries</item>
+    </string-array>
+</resources>
